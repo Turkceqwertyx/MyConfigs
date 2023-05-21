@@ -1,2 +1,2 @@
-# i3Config
-my personal i3 config
+# MyConfigs!
+my personal gnu/linux configs!
